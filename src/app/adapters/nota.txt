@@ -1,0 +1,1 @@
+Según clean arquitecture se usan adaptadores para comunicar la lógica de la app con entidades externas, como endpoints
